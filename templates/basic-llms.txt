@@ -1,0 +1,20 @@
+[Your Company Name]
+
+[One sentence describing what you do and for whom]
+
+[2-3 sentences expanding on your value proposition, target market, and key differentiators]
+
+## Products/Services
+
+- Primary Product/Service: [Clear description of what it does and who it's for]
+- Secondary Offering: [Benefits and use cases]
+
+## About
+
+- Company Overview: [Founded when, mission, team size]
+- Contact Information: [How to reach you]
+
+## Resources
+
+- Documentation: [Technical resources or help content]
+- Pricing: [Transparent pricing information] 
